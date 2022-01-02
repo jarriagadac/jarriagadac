@@ -1,16 +1,16 @@
-### Hi there 👋
+## 🤓 About me 
 
-<!--
-**jarriagadac/jarriagadac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍👧‍👦 I am the father of Francisca and Juan Pablo
 
-Here are some ideas to get you started:
+💻 I am a Software Engineer, currently working in the [Department of Computer Science](https://dcc.uchile.cl/nosotros/equipo/) of the [Universidad de Chile](https://www.uchile.cl/) as a Lead Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 I live in Santiago de Chile
+
+## 📚 About my Studies
+
+- Postgraduate Diploma in Software Engineering, 2021, [Universidad de Chile](https://www.uchile.cl)
+- Postgraduate Diploma in Computer Security, 2019, [Universidad de Chile](https://www.uchile.cl)
+- Master in Information Technology, 2015-2016, [Universidad Técnica Federico Santa María](https://www.usm.cl/)
+- Civil Engineering in Computer Science, 2006-2011, Universidad UCINF
+
+You can find more about my studies and work experience in my [LinkedIn](https://www.linkedin.com/in/jarriagadac/).
